@@ -1,3 +1,3 @@
-module github.com/TrickyTommy/go-say-hello
+module github.com/TrickyTommy/go-say-hello/v2
 
 go 1.16
